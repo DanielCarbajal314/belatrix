@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\Programas\Belatrix\LogTests\bin\Debug\LogTests.dll
+C:\Users\Daniel\Desktop\Programas\Belatrix\LogTests\bin\Debug\LogTests.pdb
+C:\Users\Daniel\Desktop\Programas\Belatrix\LogTests\bin\Debug\Log.dll
+C:\Users\Daniel\Desktop\Programas\Belatrix\LogTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Daniel\Desktop\Programas\Belatrix\LogTests\bin\Debug\Log.pdb
+C:\Users\Daniel\Desktop\Programas\Belatrix\LogTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Daniel\Desktop\Programas\Belatrix\LogTests\obj\Debug\LogTests.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Programas\Belatrix\LogTests\obj\Debug\LogTests.dll
+C:\Users\Daniel\Desktop\Programas\Belatrix\LogTests\obj\Debug\LogTests.pdb
+C:\Users\Daniel\Desktop\Programas\Belatrix\LogTests\bin\Debug\LogTests.dll.config
+C:\Users\Daniel\Desktop\Programas\Belatrix\LogTests\bin\Debug\Belatrix.exe
+C:\Users\Daniel\Desktop\Programas\Belatrix\LogTests\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Desktop\Programas\Belatrix\LogTests\bin\Debug\Belatrix.pdb
+C:\Users\Daniel\Desktop\Programas\Belatrix\LogTests\bin\Debug\EntityFramework.xml

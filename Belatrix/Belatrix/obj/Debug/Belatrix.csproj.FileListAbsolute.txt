@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\Programas\Belatrix\Belatrix\bin\Debug\Belatrix.exe.config
+C:\Users\Daniel\Desktop\Programas\Belatrix\Belatrix\bin\Debug\Belatrix.exe
+C:\Users\Daniel\Desktop\Programas\Belatrix\Belatrix\bin\Debug\Belatrix.pdb
+C:\Users\Daniel\Desktop\Programas\Belatrix\Belatrix\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Desktop\Programas\Belatrix\Belatrix\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Desktop\Programas\Belatrix\Belatrix\obj\Debug\Belatrix.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Programas\Belatrix\Belatrix\obj\Debug\Belatrix.exe
+C:\Users\Daniel\Desktop\Programas\Belatrix\Belatrix\obj\Debug\Belatrix.pdb
+C:\Users\Daniel\Desktop\Programas\Belatrix\Belatrix\bin\Debug\Log.dll
+C:\Users\Daniel\Desktop\Programas\Belatrix\Belatrix\bin\Debug\Log.pdb

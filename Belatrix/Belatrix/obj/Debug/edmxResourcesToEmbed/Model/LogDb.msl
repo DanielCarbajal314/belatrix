@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ProyectoXModelStoreContainer" CdmEntityContainer="LogEntities">
+    <EntitySetMapping Name="Log">
+      <EntityTypeMapping TypeName="ProyectoXModel.Log">
+        <MappingFragment StoreEntitySet="Log">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="tipo" ColumnName="tipo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

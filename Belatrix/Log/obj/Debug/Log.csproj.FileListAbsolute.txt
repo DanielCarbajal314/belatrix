@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\Programas\Belatrix\Log\bin\Debug\Log.dll
+C:\Users\Daniel\Desktop\Programas\Belatrix\Log\bin\Debug\Log.pdb
+C:\Users\Daniel\Desktop\Programas\Belatrix\Log\obj\Debug\Log.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Programas\Belatrix\Log\obj\Debug\Log.dll
+C:\Users\Daniel\Desktop\Programas\Belatrix\Log\obj\Debug\Log.pdb
